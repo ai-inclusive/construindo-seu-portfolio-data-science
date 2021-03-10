@@ -5,7 +5,8 @@
 
 [Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY) 
 
-O evento vai acontecer nesse sábado (13/03) às 14h AO VIVO no nosso canal do YouTube!!! ⏰
+O evento vai acontecer nesse sábado (13/03) às 14h AO VIVO no nosso canal do YouTube!!! ⏰  
+Inscreva-se no nosso [canal do Youtube](https://bit.ly/ai-inclusive-youtube) e ative as notificações. 
 
 Já pensou em criar um portfólio dos seus projetos de Data Science?  
 Você já conhece o GitHub? Vamos te ajudar na sua jornada!  
@@ -43,30 +44,30 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 
 
-Inscreva-se no nosso canal do Youtube e ative a notificação: https://bit.ly/ai-inclusive-youtube
+
 
 
 
 
 ## Leitura Complementar:
 
-Como criar o seu Github Profile - Artigo da Letícia Silva - https://bit.ly/3vdQo8v
+- Como criar o seu Github Profile - Artigo da Letícia Silva - https://bit.ly/3vdQo8v
 
-Posts com dicas de onde encontrar datasets - https://bit.ly/3t3LA3V
+- Posts com dicas de onde encontrar datasets - https://bit.ly/3t3LA3V
 
 ### Cursos Gratuitos sobre Git:
 
-Dataquest
-https://bit.ly/2N8eQao
+- Dataquest
+  https://bit.ly/2N8eQao
 
-Udacity
-https://bit.ly/30u7WPV
+- Udacity
+  https://bit.ly/30u7WPV
 
-Codecademy
-https://www.codecademy.com/learn/learn-git
+- Codecademy
+  https://www.codecademy.com/learn/learn-git
 
-Playlist Curso Git e GitHub - Gustavo Guanabara
-https://bit.ly/3qzAd1Z
+- Playlist Curso Git e GitHub - Gustavo Guanabara
+  https://bit.ly/3qzAd1Z
 
 
 

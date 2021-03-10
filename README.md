@@ -1,6 +1,7 @@
 # Utilizando o GitHub para expor seus projetos de Data Science
 
-[Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY)  
+[Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY) 
+
 O evento vai acontecer nesse sábado (13/03) às 14h AO VIVO no nosso canal do YouTube!!! ⏰
 
 Já pensou em criar um portfólio dos seus projetos de Data Science?  

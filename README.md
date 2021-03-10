@@ -1,6 +1,6 @@
 # Utilizando o GitHub para expor seus projetos de Data Science
 
-![Octocat](octoAI.png)
+#![Octocat](octoAI.png)
 
 
 [Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY) 

@@ -1,6 +1,7 @@
 # Utilizando o GitHub para expor seus projetos de Data Science
 
-[Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY)
+[Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY)  
+O evento vai acontecer nesse sábado (13/03) às 14h AO VIVO no nosso canal do YouTube!!! ⏰
 
 Já pensou em criar um portfólio dos seus projetos de Data Science?  
 Você já conhece o GitHub? Vamos te ajudar na sua jornada!  
@@ -12,7 +13,7 @@ Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https:
 [Link do Dataset](https://data.world/data-society/used-cars-data)
 
 
-## O que você vai aprender conosco:
+## 📝 O que você vai aprender conosco:
 
 - O que é o GitHub?
 - O que é um repositório e como criar um?
@@ -25,8 +26,8 @@ Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https:
 #### Iremos oferecer um certificado de participação!  
 Basta você se inscrever no link do Sympla abaixo:
 
-[Link Meetup](https://bit.ly/evento1303-meetup)  
-[Link Sympla](https://bit.ly/evento1303-sympla)
+➡ [Link Meetup](https://bit.ly/evento1303-meetup)  
+➡ [Link Sympla](https://bit.ly/evento1303-sympla)
 
 
 #### Hosts do Evento:

@@ -55,7 +55,7 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 - Posts com dicas de onde encontrar datasets - https://bit.ly/3t3LA3V
 
-### Cursos Gratuitos sobre Git:
+## Cursos Gratuitos sobre Git e GitHub:
 
 - Dataquest
   https://bit.ly/2N8eQao

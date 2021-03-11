@@ -55,21 +55,17 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 - Posts com dicas de onde encontrar datasets: https://bit.ly/3t3LA3V
 
--  Guia Markdown para te ajudar na criação do README: https://bit.ly/30wZ6AY
+- Guia Markdown para te ajudar na criação do README: https://bit.ly/30wZ6AY
 
 ## Cursos Gratuitos sobre Git e GitHub:
 
-- Dataquest
-  https://bit.ly/2N8eQao
+- Dataquest: https://bit.ly/2N8eQao
 
-- Udacity
-  https://bit.ly/30u7WPV
+- Udacity: https://bit.ly/30u7WPV
 
-- Codecademy
-  https://www.codecademy.com/learn/learn-git
+- Codecademy: https://bit.ly/3bCJXEj
 
-- Playlist Curso Git e GitHub - Gustavo Guanabara
-  https://bit.ly/3qzAd1Z
+- Playlist Curso Git e GitHub - Gustavo Guanabara: https://bit.ly/3qzAd1Z
 
 
 

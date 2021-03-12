@@ -57,9 +57,9 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 - Guia Markdown para te ajudar na criação do README: https://bit.ly/30wZ6AY
 
-- Gerenciar o LEIAME do seu perfil: http://bit.ly/3rJ2HaZ
+- Gerenciar o README do seu perfil: http://bit.ly/3rJ2HaZ
 
-- List of Badges, in Markdown: http://bit.ly/3ldhnNe
+- Lista de Badges, em Markdown: http://bit.ly/3ldhnNe
 
 
 ## Cursos Gratuitos sobre Git e GitHub:

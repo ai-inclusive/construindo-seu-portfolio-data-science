@@ -23,7 +23,7 @@ Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https:
 - O que é o GitHub?
 - O que é um repositório e como criar um?
 - Onde desenvolver o seu projeto
-- Explorar o Dataset - EDA
+- Explorar o Dataset 
 - Dicas para o README
 - Subir no GitHub
 - Divulgar seus projetos nas redes (LinkedIn, Medium, Dev.to…)

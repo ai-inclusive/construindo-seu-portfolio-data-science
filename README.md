@@ -57,6 +57,8 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 - Lista de Badges, em Markdown: http://bit.ly/3ldhnNe
 
+- Emojis Cheatsheet: http://bit.ly/3qDahCJ
+
 - Guia Markdown para te ajudar na criação do README: https://bit.ly/30wZ6AY
 
 - Posts com dicas de onde encontrar datasets: https://bit.ly/3t3LA3V

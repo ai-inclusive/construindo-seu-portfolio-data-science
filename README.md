@@ -51,18 +51,18 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 ## Leitura Complementar:
 
-- Como criar o seu Github Profile - Artigo da Letícia Silva: https://bit.ly/3vdQo8v
+- Como criar o seu GitHub Profile - Artigo da Letícia Silva: https://bit.ly/3vdQo8v
 
-- Posts com dicas de onde encontrar datasets: https://bit.ly/3t3LA3V
-
-- Guia Markdown para te ajudar na criação do README: https://bit.ly/30wZ6AY
-
-- Gerenciar o README do seu perfil: http://bit.ly/3rJ2HaZ
+- Documentação do GitHub Profile: http://bit.ly/3rJ2HaZ
 
 - Lista de Badges, em Markdown: http://bit.ly/3ldhnNe
 
+- Guia Markdown para te ajudar na criação do README: https://bit.ly/30wZ6AY
 
-## Cursos Gratuitos sobre Git e GitHub:
+- Posts com dicas de onde encontrar datasets: https://bit.ly/3t3LA3V
+
+
+## Cursos sobre Git e GitHub:
 
 - Dataquest: https://bit.ly/2N8eQao
 

@@ -74,7 +74,7 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 - Playlist Curso Git e GitHub - Gustavo Guanabara: https://bit.ly/3qzAd1Z
 
-- Udemy: https://www.udemy.com/course/git-e-github-para-iniciantes/
+- Udemy: http://bit.ly/3eSXhXt
 
 
 

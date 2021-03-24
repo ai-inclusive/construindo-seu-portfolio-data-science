@@ -31,8 +31,8 @@ Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https:
 #### Iremos oferecer um certificado de participação!  
 Basta você se inscrever no link do Sympla abaixo:
 
-➡ [Link Meetup](https://bit.ly/evento1303-meetup)  
-➡ [Link Sympla](https://bit.ly/evento1303-sympla)
+➡ &nbsp;[Link Meetup](https://bit.ly/evento1303-meetup)  
+➡ &nbsp;[Link Sympla](https://bit.ly/evento1303-sympla)
 
 
 #### Hosts do Evento:

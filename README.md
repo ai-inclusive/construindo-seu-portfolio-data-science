@@ -18,7 +18,7 @@ Vamos utilizar os dados do curso de [Data Analyst in Python do Dataquest](https:
 [Link do Dataset](https://data.world/data-society/used-cars-data)
 
 
-## 📝 O que você vai aprender conosco:
+## 📝 O que você vai aprender conosco
 
 - O que é o GitHub?
 - O que é um repositório e como criar um?
@@ -35,7 +35,7 @@ Basta você se inscrever no link do Sympla abaixo:
 ➡ &nbsp;[Link Sympla](https://bit.ly/evento1303-sympla)
 
 
-#### Hosts do Evento:
+#### Hosts do Evento
 
 Beatriz Maia - https://www.linkedin.com/in/beatrizmaiads/  
 Marina Borges - https://www.linkedin.com/in/marinahsborges/
@@ -49,7 +49,7 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 
 
 
-## Leitura Complementar:
+## Leitura Complementar
 
 - Como criar o seu GitHub Profile - Artigo da Letícia Silva: https://bit.ly/3vdQo8v
 
@@ -64,7 +64,7 @@ Marina Borges - https://www.linkedin.com/in/marinahsborges/
 - Posts com dicas de onde encontrar datasets: https://bit.ly/3t3LA3V
 
 
-## Cursos sobre Git e GitHub:
+## Cursos sobre Git e GitHub
 
 - Dataquest: https://bit.ly/2N8eQao
 

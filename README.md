@@ -3,7 +3,10 @@
 ![Octocat](octoAI.png)
 
 
-[Link para a live no YouTube](https://www.youtube.com/watch?v=Kkco06E_ZOY) 
+Clique na imagem abaixo para assistir ao [vídeo](https://www.youtube.com/watch?v=Kkco06E_ZOY) do evento:
+
+[![](http://img.youtube.com/vi/Kkco06E_ZOY/0.jpg)](http://www.youtube.com/watch?v=Kkco06E_ZOY "Utilizando o GitHub para expor seus projetos de Data Science")
+
 
 O evento vai acontecer nesse sábado (13/03) às 14h AO VIVO no nosso canal do YouTube!!! ⏰  
 Inscreva-se no nosso [canal do Youtube](https://bit.ly/ai-inclusive-youtube) e ative as notificações. 
